@@ -66,5 +66,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgements
 
-Special thanks to the contributors of the Selenium project. Inspired by various internet speed testing and automation tools.
+Special thanks to the contributors of the Selenium project and Angel Yu.
 
